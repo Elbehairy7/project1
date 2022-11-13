@@ -1,1 +1,1 @@
-# Trackbar rgb
+# Trackbar RGB
